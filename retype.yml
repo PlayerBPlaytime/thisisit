@@ -1,0 +1,22 @@
+input: 
+
+name: This Is It
+
+url: https://playerbplaytime.github.io/thisisit
+
+branding:
+  title: This Is It Web
+  label: 
+  logo: 
+
+poweredByRetype: true
+
+links:
+  - text: GitHub
+    link: https://github.com/PlayerBPlaytime/thisisit
+    icon: mark-github
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+
+favicon: 
