@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://playerbplaytime.github.io/thisisit/sitemap.xml.gz
