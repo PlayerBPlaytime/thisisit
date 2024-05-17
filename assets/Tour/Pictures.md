@@ -8,6 +8,10 @@
 
 *Billie Jean.*
 
+<img src="https://raw.githubusercontent.com/PlayerBPlaytime/thisisit/main/assets/img/bi.jpg" alt="Michael Jackson ensayando Beat It" width="600" height="auto">
+
+*Beat It.*
+
 <img src="https://raw.githubusercontent.com/PlayerBPlaytime/thisisit/main/assets/img/bow.jpg" alt="Michael Jackson ensayando Black Or White" width="600" height="auto">
 
 *Black Or White.*
