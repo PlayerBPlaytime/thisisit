@@ -1,5 +1,9 @@
 # :icon-image: Imágenes de los ensayos de This Is It
 
+<img src="https://raw.githubusercontent.com/PlayerBPlaytime/thisisit/main/assets/img/wbss.jpg" alt="Michael Jackson ensayando Wanna Be Startin' Somethin'" width="600" height="auto">
+
+*Wanna Be Startin' Somethin'.*
+
 <img src="https://raw.githubusercontent.com/PlayerBPlaytime/thisisit/main/assets/img/bj.jpg" alt="Michael Jackson ensayando Billie Jean" width="600" height="auto">
 
 *Billie Jean.*
