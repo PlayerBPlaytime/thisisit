@@ -10,8 +10,8 @@ A pesar de su corta existencia, **This Is It** prometía ser un espectáculo ép
 
 **Aquí hay algunos enlaces a recursos que te pueden interesar para aprender más sobre This Is It:**
 
-* **Ensayos:** [https://mega.nz/file/xflUWLoY#tFUplVhkZn0BSFgqf8oAOXHrk9xAtJDNu1gjQlGY9ns](https://mega.nz/file/xflUWLoY#tFUplVhkZn0BSFgqf8oAOXHrk9xAtJDNu1gjQlGY9ns)
-* **Extras:** [https://mega.nz/file/4ekhELzY#roZUJ5L6gtyfSU3Tf5cuTKcuo05XkOuZwZ-GrC3sT2U](https://mega.nz/file/4ekhELzY#roZUJ5L6gtyfSU3Tf5cuTKcuo05XkOuZwZ-GrC3sT2U)
+* **Ensayos:** [Mega](https://mega.nz/file/xflUWLoY#tFUplVhkZn0BSFgqf8oAOXHrk9xAtJDNu1gjQlGY9ns)
+* **Extras:** [Mega](https://mega.nz/file/4ekhELzY#roZUJ5L6gtyfSU3Tf5cuTKcuo05XkOuZwZ-GrC3sT2U)
 * **Documental This Is It:** [Mediafire](https://www.mediafire.com/file/j0kwk469905b2yx/Michael_Jacksons_THIS_IS_IT_Full_Movie_Documentary-Concert_Film_1080p_Full_HD_%28_1072_X_1920_%29.mp4/file)
 
 **This Is It** fue un sueño que nunca se pudo cumplir, pero sigue siendo un capítulo importante en la historia de Michael Jackson. Los fans de todo el mundo siguen recordando al Rey del Pop y su música con amor y admiración.
