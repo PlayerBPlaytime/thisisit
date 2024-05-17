@@ -7,7 +7,7 @@ url: https://playerbplaytime.github.io/thisisit
 branding:
   title: This Is It Web
   label: 
-  logo: /assets/a.png
+  logo: ../assets/a.png
 
 poweredByRetype: true
 
@@ -19,4 +19,4 @@ links:
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
 
-favicon: /assets/a.png
+favicon: ../assets/a.png
