@@ -1,50 +1,50 @@
 # :icon-image: Imágenes de los ensayos de This Is It
 
-<img src="../img/bj.jpg">
+<img src="../img/bj.jpg" alt="image">
 
 *Billie Jean.*
 
-<img src="../img/bow.jpg">
+<img src="../img/bow.jpg" alt="image">
 
 *Black Or White.*
 
-<img src="../img/danger.jpg">
+<img src="../img/danger.jpg" alt="image">
 
 *Dangerous.*
 
-<img src="../img/dd.jpg">
+<img src="../img/dd.jpg" alt="image">
 
 *Dirty Diana.*
 
-<img src="../img/es.jpg">
+<img src="../img/es.jpg" alt="image">
 
 *Earth Song.*
 
-<img src="../img/hn.jpg">
+<img src="../img/hn.jpg" alt="image">
 
 *Human Nature.*
 
-<img src="../img/ijcsly.jpg">
+<img src="../img/ijcsly.jpg" alt="image">
 
 *I Just Can't Stop Loving You.*
 
-<img src="../img/j5.jpg">
+<img src="../img/j5.jpg" alt="image">
 
 *Jackson 5 Medley.*
 
-<img src="../img/jam.jpg">
+<img src="../img/jam.jpg" alt="image">
 
 *Jam.*
 
-<img src="../img/sc.jpg">
+<img src="../img/sc.jpg" alt="image">
 
 *Smooth Criminal.*
 
-<img src="../img/thrill.jpg">
+<img src="../img/thrill.jpg" alt="image">
 
 *Thriller/Threatened.*
 
-<img src="../img/twymmf.jpg">
+<img src="../img/twymmf.jpg" alt="image">
 
 *The Way You Make Me Feel.*
 
