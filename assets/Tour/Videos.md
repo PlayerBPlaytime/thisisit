@@ -10,6 +10,10 @@
 
 *Billie Jean.*
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pvsYPfKYTsM?si=iT6YPMoJv0qygxMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Beat It.*
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/plXBJOaQQ_c?si=mfIguN2pcI66ZaOx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Black Or White.*
@@ -71,5 +75,9 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lHWCqQG0Snk?si=-BjSpPPISBMP9vWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *Don't Stop Till' You Get Enough.*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rhzykjq1aCw?si=ZAS0iOQ3tGnCt1gw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*2 Bad.*
 
 Esperamos que te haya gustado esta recopilación de videos.
