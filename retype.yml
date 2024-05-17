@@ -19,4 +19,4 @@ links:
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
 
-favicon: ./assets/a.png
+favicon: assets/a.png
